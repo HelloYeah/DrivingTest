@@ -1,0 +1,6 @@
+framework module Pods_DrivingTestTests {
+  umbrella header "Pods-DrivingTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
